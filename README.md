@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Julio Ramirez Web Developer! ReactJS ⚛. Swift Enthusiast! 
+> Make apps that people love! 💻❤️
 
 - 🌱 I’m currently learning JS fundamentals and SwiftUI. 
 
-> Make apps that people love! 💻❤️
+- 🔭 I’m currently working on ...
 
-
+![Wh-Test](https://res.cloudinary.com/juliorafrecloud/image/upload/v1594355467/Portfolio/wh-Test.png)
+![Acreditador DuocUC](https://res.cloudinary.com/juliorafrecloud/image/upload/v1594355467/Portfolio/Acreditador_tile.png)
 <!--
 **JulioAndresRamirez/JulioAndresRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
