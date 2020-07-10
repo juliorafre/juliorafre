@@ -4,7 +4,6 @@
 
 > Make apps that people love! 💻❤️
 
-This is a test...
 
 <!--
 **JulioAndresRamirez/JulioAndresRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
