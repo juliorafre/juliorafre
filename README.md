@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 im Julio Ramirez Web Developer! ReactJS ⚛. Swift Enthusiast! 
+
+- 🌱 I’m currently learning JS fundamentals and SwiftUI. Make apps that people love!
+
+This is a test...
 
 <!--
 **JulioAndresRamirez/JulioAndresRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
