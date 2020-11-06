@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Julio Ramirez Web Developer! ReactJS ⚛. Swift Enthusiast! 
 > Make apps that people love! 💻❤️
 
-- 🌱 I’m currently learning JS fundamentals and SwiftUI. 
+- 🌱 I’m currently learning JS core concepts and SwiftUI. 
 
 - 🔭 I’m currently working on ...
 
