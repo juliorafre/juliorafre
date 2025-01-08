@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning JS Core Concepts and UI animation and some SwiftUI. 
 
 - 🔭 I’m currently working on ...
-
+- 
+<!--
 ![Wh-Test](https://res.cloudinary.com/juliorafrecloud/image/upload/v1594355467/Portfolio/wh-Test.png)
 ![Acreditador DuocUC](https://res.cloudinary.com/juliorafrecloud/image/upload/v1594355467/Portfolio/Acreditador_tile.png)
-<!--
+
 **JulioAndresRamirez/JulioAndresRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
