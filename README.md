@@ -1,10 +1,5 @@
-### Hi there 👋 I'm Julio Ramirez Web Developer! ReactJS ⚛. Swift and 3D in a web Enthusiast! 
-> Make apps that people love! 💻❤️
-
-- 🌱 I’m currently learning JS Core Concepts and UI animation and some SwiftUI. 
-
-- 🔭 I’m currently working on ...
-- 
+### Hi there 👋 I'm Julio Ramirez Front End Web Developer! ReactJS ⚛. Motion, Micro-interactions and 3D in a web Enthusiast! 
+> Make products that people love! 💻❤️
 <!--
 ![Wh-Test](https://res.cloudinary.com/juliorafrecloud/image/upload/v1594355467/Portfolio/wh-Test.png)
 ![Acreditador DuocUC](https://res.cloudinary.com/juliorafrecloud/image/upload/v1594355467/Portfolio/Acreditador_tile.png)
